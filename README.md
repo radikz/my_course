@@ -1,16 +1,10 @@
-# my_course
+# My Course UI Template for Flutter
 
-A new Flutter project.
+| Home | <img src="https://github.com/radikz/my_course/blob/master/capture/capture1.gif" width="200" />| My Course | <img src="https://github.com/radikz/my_course/blob/master/capture/capture2.gif" width="200" />|
+| ------------- |:-------------:|:-------------:| -----:|
+| Wishlist | <img src="https://github.com/radikz/my_course/blob/master/capture/capture3.gif" width="200" />| Account | <img src="https://github.com/radikz/my_course/blob/master/capture/capture4.gif" width="200" />|
+| Notification | <img src="https://github.com/radikz/my_course/blob/master/capture/ss.png" width="200" />| Detail-1 | <img src="https://github.com/radikz/my_course/blob/master/capture/ss2.jpg" width="200" />|
+| detail-2 | <img src="https://github.com/radikz/my_course/blob/master/capture/ss3.jpg" width="200" />|  | |
 
-## Getting Started
+If you like the project, consider giving it a ⭐
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
